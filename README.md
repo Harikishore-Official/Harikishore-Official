@@ -1,15 +1,10 @@
 # 💫 About Me:
-🦾I'm a Machine Learning Engineer.<br> 🏫I'm currently pursuing B.TECH Artificial Intelligence and Machine Learning in M.Kumarasamy College of Engineering.<br>📍I'm from Karur,India
 
-- 🔭 🦾I'm a Machine Learning Engineer.
-- <img width="50" height="50" src="https://img.icons8.com/ios/50/laptop-coding.png" alt="laptop-coding"/> I’m currently learning Web Development
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+- 🦾 I'm a Machine Learning Engineer.
+- 🖥️ I’m currently learning Web Development.
+- 🏫 I'm currently pursuing B.TECH Artificial Intelligence and Machine Learning in M.Kumarasamy College of Engineering
+- 📩 Contact me by : harikishore651@gmail.com
+- 📍 I'm from Karur,India
   
 
 ## 🌐 Socials:
